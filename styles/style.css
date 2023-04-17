@@ -145,25 +145,17 @@
 }
 
 .section-title {
-  margin: 0;
-}
-
-.section-title {
   font-size: 60px;
   font-weight: 600;
   line-height: 1.15;
-  margin: auto;
-}
-
-.section-subtitle {
-  margin: 0;
+  margin: 0 auto;
 }
 
 .section-subtitle {
   font-size: 24px;
   font-weight: normal;
   line-height: 34px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .table {
@@ -211,9 +203,6 @@
   position: relative;
 }
 
-.feynman__title {
-  margin: 0;
-}
 
 .feynman__title {
   font-size: 120px;
@@ -221,20 +210,15 @@
   line-height: 1.15;
   width: 648px;
   text-align: center;
-  margin: auto;
-}
-
-.feynman__subtitle {
-  margin: 0;
+  margin: 0 auto;
 }
 
 .feynman__subtitle {
   text-align: center;
-  margin-top: 70px;
   font-size: 36px;
   font-weight: normal;
   line-height: 51px;
-  margin: auto;
+  margin: 70px auto 0;
 }
 
 .feynman__link {
