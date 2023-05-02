@@ -1,0 +1,14 @@
+.link {
+  color: #2f80ed;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.3s linear;
+}
+
+.link::after {
+  content: "\2192";
+}
+
+.link:hover {
+  opacity: 0.5;
+}
