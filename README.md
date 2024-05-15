@@ -20,4 +20,4 @@
 * Трансформации
 
 ## Демо
-https://eabramovich.github.io/russian-travel/
+https://eabramovich.github.io/how-to-learn
