@@ -21,3 +21,11 @@
 
 ## Демо
 https://eabramovich.github.io/how-to-learn
+
+## Методические рекомендации проекта
+
+[Чек лист](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-2.pdf) для проверки работы.
+
+[Бриф №1](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf) с описаниями и иллюстрациями
+
+[Бриф №2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf) с описаниями и иллюстрациями
